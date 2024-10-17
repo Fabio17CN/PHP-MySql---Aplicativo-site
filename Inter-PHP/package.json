@@ -1,0 +1,25 @@
+{
+  "name": "io.cordova.hellocordova",
+  "displayName": "RelatorioApp",
+  "version": "1.0.0",
+  "description": "Relatorio Diario Intersal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Fabio da Costa Nascimento",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^13.0.0",
+    "cordova-browser": "^7.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "browser",
+      "android"
+    ]
+  }
+}
